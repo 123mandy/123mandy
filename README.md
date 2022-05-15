@@ -5,13 +5,16 @@
 - 🤔 I used to be an architect, but now try to be a great full stack developer :clap: </br>
 - 💬 Ask me about everything you want :octocat: </br>
 
-check my project: </br>
+**Check my project:** </br>
 React + firebase </br>
 https://github.com/123mandy/Project-2 </br>
 Ruby + Ruby on rails + Heroku + Cloudinary + Google map API </br>
 https://github.com/123mandy/Project_Hands-Up </br>
-html + css + javascript </br>
-https://github.com/123mandy/Project_Tic-Tac-Toe
+html + css + javascript + jQuery</br>
+https://github.com/123mandy/Project_Tic-Tac-Toe </br>
+...... </br>
+
+More is coming soon! 😄
 
 
 
