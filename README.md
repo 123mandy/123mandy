@@ -8,7 +8,7 @@
 **Check my project:** </br>
 React + firebase </br>
 https://github.com/123mandy/Project-2 </br>
-Ruby + Ruby on rails + Heroku + Cloudinary + Google map API </br>
+Ruby + Ruby on rails + postgreSQL + Heroku + Cloudinary + Google map API </br>
 https://github.com/123mandy/Project_Hands-Up </br>
 html + css + javascript + jQuery</br>
 https://github.com/123mandy/Project_Tic-Tac-Toe </br>
