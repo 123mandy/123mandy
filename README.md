@@ -6,12 +6,14 @@
 - 💬 Ask me about everything you want :octocat: </br>
 
 **Check my project:** </br>
+Vue + Node + Express + Mongodb </br>
+A mini group work with UX designer: https://github.com/123mandy/luna-park-newsletter-client </br>
 React + firebase </br>
-https://github.com/123mandy/Project-2 </br>
+A group work to do a pet adoption app: https://github.com/123mandy/Project-2 </br>
 Ruby + Ruby on rails + postgreSQL + Heroku + Cloudinary + Google map API </br>
-https://github.com/123mandy/Project_Hands-Up </br>
+An app help you to seek helps from others: https://github.com/123mandy/Project_Hands-Up </br>
 html + css + javascript + jQuery</br>
-https://github.com/123mandy/Project_Tic-Tac-Toe </br>
+Tic-Tac-Toe game: https://github.com/123mandy/Project_Tic-Tac-Toe </br>
 ...... </br>
 
 More is coming soon! 😄
