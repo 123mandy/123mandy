@@ -6,7 +6,7 @@
 - 💬 Ask me about everything you want :octocat: </br>
 
 ### Check my project 😊 </br>
-***REACT + Node + Express + Mongodb*** </br>
+***REACT + Node + Express + Mongodb + Heroku + Cloudinary +Stripe*** </br>
 💗 An app help you to trade your lego set: https://github.com/123mandy/Brickgo-clients </br>
 </br>
 ***Vue + Node + Express + Mongodb*** </br>
