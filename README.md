@@ -6,6 +6,9 @@
 - 💬 Ask me about everything you want :octocat: </br>
 
 ### Check my project 😊 </br>
+***REACT + Node + Express + Mongodb*** </br>
+💗 An app help you to trade your lego set: https://github.com/123mandy/Brickgo-clients </br>
+</br>
 ***Vue + Node + Express + Mongodb*** </br>
 💙 A mini group work with UX designer: https://github.com/123mandy/luna-park-newsletter-client </br>
 </br>
